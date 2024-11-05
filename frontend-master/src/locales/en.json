@@ -1,0 +1,226 @@
+{
+  "header": {
+    "home": "Home",
+    "rules": "Rules",
+    "login": "Login",
+    "register": "Register"
+  },
+  "footer": {
+    "copyright": "All rights reserved",
+    "games": "Games",
+    "info": {
+      "information": "Information",
+      "about": "About us",
+      "contacts": "Connect with us",
+      "partner": "Affiliate program",
+      "faq": "Frequently asked Questions"
+    },
+    "paymethods": "Мы принимаем"
+  },
+  "chat": {
+    "title": "Chat",
+    "online": "Online",
+    "text_placeholder": "Write message...",
+    "user": {
+      "action": "Actions",
+      "delete": "Delete",
+      "ban": "Ban",
+      "mute": "Mute"
+    },
+    "errors": {
+      "need_payment": "To send messages to the chat, you must replenish your account at least once!",
+      "ban": "You are on the ban list",
+      "mute": "You are disconnected from the chat"
+    }
+  },
+  "home": {
+    "our_games": "Our games",
+    "table": {
+      "game": "Game",
+      "user": "User",
+      "time": "Time",
+      "pari": "Pari",
+      "bet": "Bet",
+      "win": "Win"
+    },
+    "kwests": "Daily quests",
+    "prise": "Treasure chest",
+    "need_for_open": "To open, you need",
+    "count": "PC",
+    "open": "Open",
+    "you_need": "Collected",
+    "not_auth": "You are not logged in. Login to your account",
+    "fine_day": "Lucky day",
+    "win": "Won",
+    "big_win": "Biggest win",
+    "game_per_today": "Games for today"
+  },
+  "profile": {
+    "settings": "Settings",
+    "nickname": "Nickname",
+    "phone": "Phone",
+    "email": "Email",
+    "promocode": "Promo code activation",
+    "promo": "Promo code",
+    "balance": "Balance",
+    "date_register": "Registration date",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "bonuses": "Collected",
+    "history": "History"
+  },
+  "deposit": {
+    "deposit_heading": "Top up balance",
+    "sum": "Enter the amount",
+    "deposit": "Deposit"
+  },
+  "withdraw": {
+    "withdraw_heading": "Withdraw balance",
+    "sum": "Enter the amount",
+    "withdraw": "Withdraw"
+  },
+  "register": {
+    "heading": "Registration",
+    "accent": "Register now",
+    "or": "or",
+    "password": "Password",
+    "login": "Login",
+    "email": "Email",
+    "repeat_password": "Repeat password"
+  },
+  "login": {
+    "login_or_email": "Login or Email",
+    "password": "Password",
+    "login": "Login",
+    "or": "or",
+    "heading": "Login"
+  },
+  "roulette": {
+    "last_100_games": "Last 100 games:",
+    "history": "History",
+    "start_on": "LET'S START THROUGH",
+    "sum_bet": "Bet amount",
+    "clear": "Clear",
+    "last": "Last",
+    "max": "Max",
+    "winner": "Winnings",
+    "on_bet": "Place your bet",
+    "all_dep": "General deposit"
+  },
+  "crash": {
+    "bet": "Bet",
+    "autowithdraw": "Authowithdraw"
+  },
+  "history": {
+    "heading": "History",
+    "games": "games",
+    "players": "Players",
+    "all_bets": "Total bets",
+    "user": "User",
+    "bet": "Bet",
+    "chance": "Chance",
+    "win": "Win"
+  },
+  "battle": {
+    "maybe": "Possible",
+    "winner": "gain",
+    "new_game": "New game",
+    "on": "across",
+    "sec": "Sec",
+    "select_winner": "Choosing a winner",
+    "bet_sum": "Bet amount",
+    "max": "Max",
+    "change_chance": "Change chance",
+    "bets_users": "User rates"
+  },
+  "faq": {
+    "title": "Frequently asked questions"
+  },
+  "agreement": {
+    "title": "Terms of use"
+  },
+  "bonus": {
+    "error_activation": "The promo code is not activated. Contact the administrator!",
+    "success_activation": "The promo code has been successfully activated!",
+    "promocode_error_expire_at": "The promotional code has expired!",
+    "promocode_error_count_activation": "The number of promo code activations has been exceeded!",
+    "promocode_user_error_max_activation": "You can only activate one promo code per 24 hours!"
+  },
+  "quests": {
+    "max_one_quets_in_day": "Max one quest in day",
+    "error_timeout": "The check is available every 30 seconds",
+    "error_already_open": "This bonus already received for todayн",
+    "error_vk_auth": "You are not registered with Vkontakte",
+    "error_vk_subscribe_group": "You must join the VKontakte group",
+    "error_vk_subscribe_news": "You must subscribe to news in the VKontakte group",
+    "error_payment_100": "You need to top up your balance by 100 rubles or more",
+    "error_payment_300": "You need to top up your balance by 100 rubles or more",
+    "error_payment_500": "You need to top up your balance by 500 rubles or more",
+    "error_payment_1000": "You need to top up your balance by 1000 rubles or more",
+    "error_payment_1500": "You need to top up your balance by 1500 rubles or more",
+    "error_payment_2000": "You need to top up your balance by 2000 rubles or more",
+    "error_payment_3000": "You need to top up your balance by 3000 rubles or more",
+    "error_payment_5000": "You need to top up your balance by 5000 rubles or more",
+    "success_get_bonus": "Bonus successfully received!"
+  },
+  "chest": {
+    "error_was_open": "Chest was open.",
+    "error_count_diamonds": "The amount of collected diamonds is not enough to open the bonus!",
+    "promocode_user_error_max_activation": "You can only activate the chest once every 24 hours!",
+    "success_was_open": "The chest has been successfully opened!",
+    "is_was_open_front": "The chest is open! The next one will be tomorrow."
+  },
+  "prepositions": {
+    "in": "in"
+  },
+  "user": {
+    "fields_password_do_not_match": "The password and repeat password fields do not match!",
+    "error_update_user": "Ошибка обновления пользователя",
+    "success_update_user": "Данные пользователя успешно обновлены"
+  },
+  "games": {
+    "max_button_title": "Max.",
+    "summ_wager": "Bet amount",
+    "auth_button": "Log in to start playing!",
+    "game_button_play_start": "Play",
+    "game_button_play_cancel": "Cancel",
+    "errors": {
+      "balance": "Balance is not enough"
+    }
+  },
+  "dice": {
+    "win": "You have won!",
+    "fail": "You lost("
+  },
+  "mines": {
+    "count_bombs": "Count bombs",
+    "cell_is_open": "Cell is open",
+    "hit": "Hit",
+    "button_get_profit": [
+      "Take ",
+      "rub."
+    ],
+    "errors": {
+      "not_available": "Game is not available!",
+      "count_bombs": "Count mines: from 2 to 24",
+      "not_found": "Game is not found!",
+      "game_is_end": "This game is end"
+    }
+  },
+
+  "game": "Game",
+  "auth_for_play": "Log in to start playing!",
+
+  "error_registration_field": "Check if the form is entered correctly:<br>1) All fields are required<br>2) Login and password length from 3 to 15 symbols<br>3) The \"Password\" and \"Repeat password\" fields must be identical<br>",
+
+  "error_email_confirmation": "Email not confirmed",
+  "success_email_confirmation": "Mail confirmed",
+
+  "error_registration": "An error has occurred, please check your entries or try again later!",
+  "success_registration": "Registration completed successfully. Confirmation sent by mail!",
+
+  "signIn": {
+    "error": "Login or password is incorrect!",
+    "success": "Authorization was successful!"
+  }
+}

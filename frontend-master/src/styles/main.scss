@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 14px;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+  background: #121419;
+}
+.container {
+  max-width: 1250px;
+  margin: 0 auto;
+}
+.d-flex {
+  display: flex;
+}
+.align-items-center {
+  align-items: center;
+}
+.justify-content-center {
+  justify-content: center;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+.text-center {
+  text-align: center;
+}
+.d-block {
+  display: block;
+}
+.w-100 {
+  width: 100%;
+}
+
+.justify-content-end {
+  justify-content: flex-end;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .3s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active до версии 2.1.8 */ {
+  opacity: 0;
+}
+
+/* Анимации появления и исчезновения могут иметь */
+/* различные продолжительности и динамику.       */
+.slide-fade-enter-active {
+  transition: all .1s ease;
+}
+.slide-fade-leave-active {
+  transition: all .2s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+}
+.slide-fade-enter, .slide-fade-leave-to
+  /* .slide-fade-leave-active до версии 2.1.8 */ {
+  transform: translateX(10px);
+  opacity: 0;
+}
+
+.faded-enter-active, .faded-leave-active {
+  transition: opacity .5s;
+}
+.faded-enter, .faded-leave-to /* .fade-leave-active до версии 2.1.8 */ {
+  opacity: 0;
+}
+
+
+
+
+.btn {
+  transition: 0.2s;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+
+/* Анимации появления и исчезновения могут иметь */
+/* различные продолжительности и динамику.       */
+.slide-fade-enter-active {
+  transition: all .1s ease;
+}
+.slide-fade-leave-active {
+  transition: all .1s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+}
+.slide-fade-enter, .slide-fade-leave-to
+  /* .slide-fade-leave-active до версии 2.1.8 */ {
+  transform: translateX(10px);
+  opacity: 0;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active до версии 2.1.8 */ {
+  opacity: 0;
+}
+
+@media screen and (max-width: 575px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+
+.toasted .primary,
+.toasted.toasted-primary {
+  padding: 12px 20px;
+}
+
+.vue-notification-group {
+  z-index: 999999999999 !important;
+  left: 108px !important;
+  bottom: 5px !important;
+}

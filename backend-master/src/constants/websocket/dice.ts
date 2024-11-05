@@ -1,0 +1,4 @@
+export default {
+  SEND_DICE_BET: 'SEND_DICE_BET',
+  DICE_BET_RESULT: 'DICE_BET_RESULT',
+}

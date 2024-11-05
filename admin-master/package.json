@@ -1,0 +1,29 @@
+{
+  "name": "suicide-admin",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.11.0",
+    "@tinymce/tinymce-vue": "^3.2.2",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "cookie-universal-nuxt": "^2.1.4",
+    "element-ui": "^2.13.2",
+    "lodash": "^4.17.19",
+    "luxon": "^1.25.0",
+    "moment": "^2.27.0",
+    "nuxt": "^2.13.0",
+    "nuxt-start": "^2.14.0",
+    "vue-datetime": "^1.0.0-beta.14",
+    "vue-the-mask": "^0.11.1",
+    "weekstart": "^1.0.1"
+  },
+  "devDependencies": {}
+}

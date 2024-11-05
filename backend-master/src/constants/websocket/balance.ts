@@ -1,0 +1,4 @@
+export default {
+  NEW_BALANCE: 'NEW_BALANCE',
+  NEW_DEMO_BALANCE: 'NEW_DEMO_BALANCE'
+}
